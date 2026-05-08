@@ -41,7 +41,6 @@ Manual lead research from B2B directories is slow, inconsistent, and impossible 
 | GUI | Tkinter |
 | Export | openpyxl (Excel), PDFKit |
 
----
 
 <!-- ## Demo -->
 
