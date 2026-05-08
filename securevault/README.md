@@ -147,7 +147,6 @@ No external dependencies beyond Python libraries — entirely self-contained.
 - Star Performer of the Year 2024 award — first time given in company's 11-year history
 - Zero external libraries required — fully portable Python application
 
----
 
 <!-- ## Demo -->
 
