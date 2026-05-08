@@ -141,7 +141,6 @@ cortex/
 - Full documentation delivered alongside the system
 - Reusable utils folder (PDF, email, templates) used across subsequent projects
 
----
 
 <!-- ## Demo -->
 
