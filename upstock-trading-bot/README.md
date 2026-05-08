@@ -44,7 +44,6 @@ Manual trading requires constant market monitoring and fast execution — both d
 - Operated with 100% reliability in live production environment
 - Zero manual intervention required during active trading sessions
 
----
 
 <!-- ## Demo -->
 
