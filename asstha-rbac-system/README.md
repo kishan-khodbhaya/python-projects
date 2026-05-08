@@ -170,7 +170,6 @@ Two in-house Ubuntu servers configured and deployed:
 - 8-month project delivered and in active production use
 - Star Performer of the Year 2024 award received during this project
 
----
 
 <!-- ## Demo -->
 
